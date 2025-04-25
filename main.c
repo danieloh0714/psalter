@@ -2,19 +2,20 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-#define ESC_UNDERLINE "\033[4m"
 #define ESC_RESET "\033[m"
+#define ESC_ITALIC "\033[3m"
+#define ESC_UNDERLINE "\033[4m"
 
 int main(int argc, char *argv[]) {
     if (argc != 2) {
-        fprintf(stderr, "error: invalid number of arguments\n");
+        fprintf(stderr, "Error: invalid number of arguments\n");
         return 1;
     }
 
     int psalm_number = atoi(argv[1]);
 
     if (psalm_number == 0 || psalm_number > 150) {
-        fprintf(stderr, "error: Psalm must be from 1-150\n");
+        fprintf(stderr, "Error: Psalm must be from 1-150\n");
         return 1;
     }
 
