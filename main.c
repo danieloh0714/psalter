@@ -19,7 +19,7 @@ int main(int argc, char *argv[]) {
     }
 
     printf(ESC_UNDERLINE "Psalm %d\n\n", psalm_number);
-    printf(ESC_RESET "%s\n", psalms[psalm_number]);
+    printf(ESC_RESET "%s\n", psalms[psalm_number - 1]);
 
     return 0;
 }

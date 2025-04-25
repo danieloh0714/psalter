@@ -240,4 +240,490 @@ const char *psalms[150] = {
     "thou\nto hear wilt bend thine ear;\n\n[18] To judge the fatherless, "
     "and those\nthat are oppressed sore;\nThat man, that is but sprung of "
     "earth,\nmay them oppress no more.",
+    // Psalm 11
+    "[1] I in the Lord do put my trust:\nhow is it then that ye\nSay to my "
+    "soul, Flee, as a bird,\nunto your mountain high?\n\n[2] For, lo, the "
+    "wicked bend their bow,\ntheir shafts on string they fit,\nThat those who "
+    "upright are in heart\nthey privily may hit.\n\n[3] If the foundations be "
+    "destroy’d,\nwhat hath the righteous done?\n[4] God in his holy temple "
+    "is,\nin heaven is his throne:\n\nHis eyes do see, his eye-lids try\n[5] "
+    "men’s sons. The just he proves:\nBut his soul hates the wicked man,\nand "
+    "him that vi’lence loves.\n\n[6] Snares, fire and brimstone, furious "
+    "storms,\non sinners he shall rain:\nThis, as the portion of their "
+    "cup,\ndoth unto them pertain.\n\n[7] Because the Lord most righteous "
+    "doth\nin righteousness delight;\nAnd with a pleasant "
+    "countenance\nbeholdeth the upright.",
+    // Psalm 12
+    "[1] Help, Lord, because the godly man\ndoth daily fade away;\nAnd from "
+    "among the sons of men\nthe faithful do decay.\n\n[2] Unto his neighbour "
+    "ev’ry one\ndoth utter vanity:\nThey with a double heart do speak,\nand "
+    "lips of flattery.\n\n[3] God shall cut off all flatt’ring lips,\ntongues "
+    "that speak proudly thus,\n\n[4] We’ll with our tongue prevail, our "
+    "lips\nare ours: who’s lord o’er us?\n\n[5] For poor oppress’d, and for "
+    "the sighs\nof needy, rise will I,\nSaith God, and him in safety set\nfrom "
+    "such as him defy.\n\n[6] The words of God are words most pure;\nthey be "
+    "like silver try’d\nIn earthen furnace, seven times\nthat hath been "
+    "purify’d.\n\n[7] Lord, thou shalt them preserve and keep\nfor ever from "
+    "this race.\n[8] On each side walk the wicked, when\nvile men are high in "
+    "place.",
+    // Psalm 13
+    "[1] How long wilt thou forget me, Lord?\nshall it for ever be?\nO how "
+    "long shall it be that thou\nwilt hide thy face from me?\n\n[2] How long "
+    "take counsel in my soul,\nstill sad in heart, shall I?\nHow long exalted "
+    "over me\nshall be mine enemy?\n\n[3] O Lord my God, consider well,\nand "
+    "answer to me make:\nMine eyes enlighten, lest the sleep\nof death me "
+    "overtake:\n\n[4] Lest that mine enemy should say,\nAgainst him I "
+    "prevail’d;\nAnd those that trouble me rejoice,\nwhen I am mov’d and "
+    "fail’d.\n\n[5] But I have all my confidence\nthy mercy set upon;\nMy "
+    "heart within me shall rejoice\nin thy salvation.\n\n[6] I will unto the "
+    "Lord my God\nsing praises cheerfully,\nBecause he hath his bounty "
+    "shown\nto me abundantly.",
+    // Psalm 14
+    "[1] That there is not a God, the fool\ndoth in his heart conclude:\nThey "
+    "are corrupt, their works are vile;\nnot one of them doth good.\n\n[2] "
+    "Upon men’s sons the Lord from heav’n\ndid cast his eyes abroad,\nTo see "
+    "if any understood,\nand did seek after God.\n\n[3] They altogether filthy "
+    "are,\nthey all aside are gone;\nAnd there is none that doeth good,\nyea, "
+    "sure there is not one.\n\n[4] These workers of iniquity\ndo they not know "
+    "at all,\nThat they my people eat as bread,\nand on God do not "
+    "call?\n\n[5] There fear’d they much; for God is with\nthe whole race of "
+    "the just.\n[6] You shame the counsel of the poor,\nbecause God is his "
+    "trust.\n\n[7] Let Isr’el’s help from Sion come:\nwhen back the Lord shall "
+    "bring\nHis captives, Jacob shall rejoice,\nand Israel shall sing.",
+    // Psalm 15
+    "[1] Within thy tabernacle, Lord,\nwho shall abide with thee?\nAnd in thy "
+    "high and holy hill\nwho shall a dweller be?\n\n[2] The man that walketh "
+    "uprightly,\nand worketh righteousness,\nAnd as he thinketh in his "
+    "heart,\nso doth he truth express.\n\n[3] Who doth not slander with his "
+    "tongue,\nnor to his friend doth hurt;\nNor yet against his neighbour "
+    "doth\ntake up an ill report.\n\n[4] In whose eyes vile men are "
+    "despis’d;\nbut those that God do fear\nHe honoureth; and changeth "
+    "not,\nthough to his hurt he swear.\n\n[5] His coin puts not to "
+    "usury,\nnor take reward will he\nAgainst the guiltless. Who doth "
+    "thus\nshall never moved be.",
+    // Psalm 16
+    "[1] Lord, keep me; for I trust in thee.\n[2] To God thus was my "
+    "speech,\nThou art my Lord; and unto thee\nmy goodness doth not "
+    "reach:\n\n[3] To saints on earth, to th’ excellent,\nwhere my delight’s "
+    "all plac’d.\n[4] Their sorrows shall be multiply’d\nto other gods that "
+    "haste:\n\nOf their drink-offerings of blood\nI will no off ‘ring "
+    "make;\nYea, neither I their very names\nup in my lips will take.\n\n[5] "
+    "God is of mine inheritance\nand cup the portion;\nThe lot that fallen is "
+    "to me\nthou dost maintain alone.\n\n[6] Unto me happily the lines\nin "
+    "pleasant places fell;\nYea, the inheritance I got\nin beauty doth "
+    "excel.\n\n[7] I bless the Lord, because he doth\nby counsel me "
+    "conduct;\nAnd in the seasons of the night\nmy reins do me "
+    "instruct.\n\n[8] Before me still the Lord I set:\nsith it is so that "
+    "he\nDoth ever stand at my right hand,\nI shall not moved be.\n\n[9] "
+    "Because of this my heart is glad,\nand joy shall be exprest\nEv’n by my "
+    "glory; and my flesh\nin confidence shall rest.\n\n[10] Because my soul in "
+    "grave to dwell\nshall not be left by thee;\nNor wilt thou give thine Holy "
+    "One\ncorruption to see.\n\n[11] Thou wilt me shew the path of life:\nof "
+    "joys there is full store\nBefore thy face; at thy right hand\nare "
+    "pleasures evermore.",
+    // Psalm 17
+    "[1] Lord, hear the right, attend my cry,\nunto my pray’r give heed,\nThat "
+    "doth not in hypocrisy\nfrom feigned lips proceed.\n\n[2] And from before "
+    "thy presence forth\nmy sentence do thou send:\nToward these things that "
+    "equal are\ndo thou thine eyes intend.\n\n[3] Thou prov’dst mine heart, "
+    "thou visit’dst me\nby night, thou didst me try,\nYet nothing found’st; "
+    "for that my mouth\nshall not sin, purpos’d I.\n\n[4] As for men’s works, "
+    "I, by the word\nthat from thy lips doth flow,\nDid me preserve out of the "
+    "paths\nwherein destroyers go.\n\n[5] Hold up my goings, Lord, me "
+    "guide\nin those thy paths divine,\nSo that my footsteps may not "
+    "slide\nout of those ways of thine.\n\n[6] I called have on thee, O "
+    "God,\nbecause thou wilt me hear:\nThat thou may’st hearken to my "
+    "speech,\nto me incline thine ear.\n\n[7] Thy wondrous loving-kindness "
+    "show,\nthou that, by thy right hand,\nSav’st them that trust in thee from "
+    "those\nthat up against them stand.\n\n[8] As th’ apple of the eye me "
+    "keep;\nin thy wings shade me close\n[9] From lewd oppressors, "
+    "compassing\nme round, as deadly foes.\n\n[10] In their own fat they are "
+    "inclos’d;\ntheir mouth speaks loftily.\n[11] Our steps they compass’d; "
+    "and to ground\ndown bowing set their eye.\n\n[12] He like unto a lion "
+    "is\nthat’s greedy of his prey,\nOr lion young, which lurking doth\nin "
+    "secret places stay.\n\n[13] Arise, and disappoint my foe,\nand cast him "
+    "down, O Lord:\nMy soul save from the wicked man,\nthe man which is thy "
+    "sword.\n\n[14] From men, which are thy hand, O Lord,\nfrom worldly men me "
+    "save,\nWhich only in this present life\ntheir part and portion "
+    "have.\n\nWhose belly with thy treasure hid\nthou fill’st: they children "
+    "have\nIn plenty; of their goods the rest\nthey to their children "
+    "leave.\n\n[15] But as for me, I thine own face\nin righteousness will "
+    "see;\nAnd with thy likeness, when I wake,\nI satisfy’d shall be.",
+    // Psalm 18
+    "[1] Thee will I love, O Lord, my strength.\n[2] My fortress is the "
+    "Lord,\nMy rock, and he that doth to me\ndeliverance afford:\n\nMy God, my "
+    "strength, whom I will trust,\na buckler unto me,\nThe horn of my "
+    "salvation,\nand my high tow’r, is he.\n\n[3] Upon the Lord, who worthy "
+    "is\nof praises, will I cry;\nAnd then shall I preserved be\nsafe from "
+    "mine enemy.\n\n[4] Floods of ill men affrighted me,\ndeath’s pangs about "
+    "me went;\n[5] Hell’s sorrows me environed;\ndeath’s snares did me "
+    "prevent.\n\n[6] In my distress I call’d on God,\ncry to my God did I;\nHe "
+    "from his temple heard my voice,\nto his ears came my cry.\n\n[7] Th’ "
+    "earth, as affrighted, then did shake,\ntrembling upon it seiz’d:\nThe "
+    "hills’ foundations moved were,\nbecause he was displeas’d.\n\n[8] Up from "
+    "his nostrils came a smoke,\nand from his mouth there came\nDevouring "
+    "fire, and coals by it\nwere turned into flame.\n\n[9] He also bowed down "
+    "the heav’ns,\nand thence he did descend;\nAnd thickest clouds of darkness "
+    "did\nunder his feet attend.\n\n[10] And he upon a cherub rode,\nand "
+    "thereon he did fly;\nYea, on the swift wings of the wind\nhis flight was "
+    "from on high.\n\n[11] He darkness made his secret place:\nabout him, for "
+    "his tent,\nDark waters were, and thickest clouds\nof th’ airy "
+    "firmament.\n\n[12] And at the brightness of that light,\nwhich was before "
+    "his eye,\nHis thick clouds pass’d away, hailstones\nand coals of fire did "
+    "fly.\n\n[13] The Lord God also in the heav’ns\ndid thunder in his "
+    "ire;\nAnd there the Highest gave his voice,\nhailstones and coals of "
+    "fire.\n\n[14] Yea, he his arrows sent abroad,\nand them he "
+    "scattered;\nHis lightnings also he shot out,\nand them "
+    "discomfited.\n\n[15] The waters’ channels then were seen,\nthe world’s "
+    "foundations vast\nAt thy rebuke discover’d were,\nand at thy nostrils’ "
+    "blast.\n\n[16] And from above the Lord sent down,\nand took me from "
+    "below;\nFrom many waters he me drew,\nwhich would me overflow.\n\n[17] He "
+    "me reliev’d from my strong foes,\nand such as did me hate;\nBecause he "
+    "saw that they for me\ntoo strong were, and too great.\n\n[18] They me "
+    "prevented in the day\nof my calamity;\nBut even then the Lord himself\na "
+    "stay was unto me.\n\n[19] He to a place where liberty\nand room was hath "
+    "me brought;\nBecause he took delight in me,\nhe my deliv’rance "
+    "wrought.\n\n[20] According to my righteousness\nhe did me recompense,\nHe "
+    "me repaid according to\nmy hands’ pure innocence.\n\n[21] For I God’s "
+    "ways kept, from my God\ndid not turn wickedly.\nHis judgments were before "
+    "me, I\nhis laws put not from me.\n\n[23] Sincere before him was my "
+    "heart;\nwith him upright was I;\nAnd watchfully I kept myself\nfrom mine "
+    "iniquity.\n\n[24] After my righteousness the Lord\nhath recompensed "
+    "me,\nAfter the cleanness of my hands\nappearing in his eye.\n\n[25] Thou "
+    "gracious to the gracious art,\nto upright men upright:\n[26] Pure to the "
+    "pure, froward thou kyth’st\nunto the froward wight.\n\n[27] For thou wilt "
+    "the afflicted save\nin grief that low do lie:\nBut wilt bring down the "
+    "countenance\nof them whose looks are high.\n\n[28] The Lord will light my "
+    "candle so,\nthat it shall shine full bright:\nThe Lord my God will also "
+    "make\nmy darkness to be light.\n\n[29] By thee through troops of men I "
+    "break,\nand them discomfit all;\nAnd, by my God assisting me,\nI overleap "
+    "a wall.\n\n[30] As for God, perfect is his way:\nthe Lord his word is "
+    "try’d;\nHe is a buckler to all those\nwho do in him confide.\n\n[31] Who "
+    "but the Lord is God? but he\nwho is a rock and stay?\n[32] ‘Tis God that "
+    "girdeth me with strength,\nand perfect makes my way.\n\n[33] He made my "
+    "feet swift as the hinds,\nset me on my high places.\n[34] Mine hands to "
+    "war he taught, mine arms\nbrake bows of steel in pieces.\n\n[35] The "
+    "shield of thy salvation\nthou didst on me bestow:\nThy right hand held me "
+    "up, and great\nthy kindness made me grow.\n\n[36] And in my way my steps "
+    "thou hast\nenlarged under me,\nThat I go safely, and my feet\nare kept "
+    "from sliding free.\n\n[37] Mine en’mies I pursued have,\nand did them "
+    "overtake;\nNor did I turn again till I\nan end of them did make.\n\n[38] "
+    "I wounded them, they could not rise;\nthey at my feet did fall.\n[39] "
+    "Thou girdedst me with strength for war;\nmy foes thou brought’st down "
+    "all:\n\n[40] And thou hast giv’n to me the necks\nof all mine "
+    "enemies;\nThat I might them destroy and slay,\nwho did against me "
+    "rise.\n\n[41] They cried out, but there was none\nthat would or could "
+    "them save;\nYea, they did cry unto the Lord,\nbut he no answer "
+    "gave.\n\n[42] Then did I beat them small as dust\nbefore the wind that "
+    "flies;\nAnd I did cast them out like dirt\nupon the street that "
+    "lies.\n\n[43] Thou mad’st me free from people’s strife,\nand heathen’s "
+    "head to be:\nA people whom I have not known\nshall service do to "
+    "me.\n\n[44] At hearing they shall me obey,\nto me they shall "
+    "submit.\n[45] Strangers for fear shall fade away,\nwho in close places "
+    "sit.\n\n[46] God lives, bless’d be my Rock; the God\nof my health praised "
+    "be.\n[47] God doth avenge me, and subdues\nthe people under me.\n\n[48] "
+    "He saves me from mine enemies;\nyea, thou hast lifted me\nAbove my foes; "
+    "and from the man\nof vi’lence set me free.\n\n[49] Therefore to thee will "
+    "I give thanks\nthe heathen folk among;\nAnd to thy name, O Lord, I "
+    "will\nsing praises in a song.\n\n[50] He great deliv’rance gives his "
+    "king:\nhe mercy doth extend\nTo David, his anointed one,\nand his seed "
+    "without end.",
+    // Psalm 19
+    "[1] The heav’ns God’s glory do declare,\nthe skies his hand-works "
+    "preach:\n[2] Day utters speech to day, and night\nto night doth knowledge "
+    "teach.\n\n[3] There is no speech nor tongue to which\ntheir voice doth "
+    "not extend:\n[4] Their line is gone through all the earth,\ntheir words "
+    "to the world’s end.\n\nIn them he set the sun a tent;\n[5] Who, "
+    "bridegroom-like, forth goes\nFrom’s chamber, as a strong man doth\nto run "
+    "his race rejoice.\n\n[6] From heav’n’s end is his going forth,\ncircling "
+    "to th’ end again;\nAnd there is nothing from his heat\nthat hidden doth "
+    "remain.\n\n[7] God’s law is perfect, and converts\nthe soul in sin that "
+    "lies:\nGod’s testimony is most sure,\nand makes the simple wise.\n\n[8] "
+    "The statutes of the Lord are right,\nand do rejoice the heart:\nThe "
+    "Lord’s command is pure, and doth\nlight to the eyes impart.\n\n[9] "
+    "Unspotted is the fear of God,\nand doth endure for ever:\nThe judgments "
+    "of the Lord are true\nand righteous altogether.\n\n[10] They more than "
+    "gold, yea, much fine gold,\nto be desired are:\nThan honey, honey from "
+    "the comb\nthat droppeth, sweeter far.\n\n[11] Moreover, they thy servant "
+    "warn\nhow he his life should frame:\nA great reward provided is\nfor them "
+    "that keep the same.\n\n[12] Who can his errors understand?\nO cleanse "
+    "thou me within\n[13] From secret faults. Thy servant keep\nfrom all "
+    "presumptuous sin:\n\nAnd do not suffer them to have\ndominion over "
+    "me:\nThen, righteous and innocent,\nI from much sin shall be.\n\n[14] The "
+    "words which from my mouth proceed,\nthe thoughts sent from my "
+    "heart,\nAccept, O Lord, for thou my strength\nand my Redeemer art.",
+    // Psalm 20
+    "[1] Jehovah hear thee in the day\nwhen trouble he doth send:\nAnd let the "
+    "name of Jacob’s God\nthee from all ill defend.\n\n[2] O let him help send "
+    "from above,\nout of his sanctuary:\nFrom Sion, his own holy hill,\nlet "
+    "him give strength to thee.\n\n[3] Let him remember all thy gifts,\naccept "
+    "thy sacrifice:\n[4] Grant thee thine heart’s wish, and fulfil\nthy "
+    "thoughts and counsel wise.\n\n[5] In thy salvation we will joy;\nin our "
+    "God’s name we will\nDisplay our banners: and the Lord\nthy prayers all "
+    "fulfil.\n\n[6] Now know I God his king doth save:\nhe from his holy "
+    "heav’n\nWill hear him, with the saving strength\nby his own right hand "
+    "giv’n.\n\n[7] In chariots some put confidence,\nsome horses trust "
+    "upon:\nBut we remember will the name\nof our Lord God alone.\n\n[8] We "
+    "rise, and upright stand, when they\nare bowed down, and fall.\n[9] "
+    "Deliver, Lord; and let the King\nus hear, when we do call.",
+    // Psalm 21
+    "",
+    // Psalm 22
+    "",
+    // Psalm 23
+    "",
+    // Psalm 24
+    "",
+    // Psalm 25
+    "",
+    // Psalm 26
+    "",
+    // Psalm 27
+    "",
+    // Psalm 28
+    "",
+    // Psalm 29
+    "",
+    // Psalm 30
+    "",
+    // Psalm 31
+    "",
+    // Psalm 32
+    "",
+    // Psalm 33
+    "",
+    // Psalm 34
+    "",
+    // Psalm 35
+    "",
+    // Psalm 36
+    "",
+    // Psalm 37
+    "",
+    // Psalm 38
+    "",
+    // Psalm 39
+    "",
+    // Psalm 40
+    "",
+    // Psalm 41
+    "",
+    // Psalm 42
+    "",
+    // Psalm 43
+    "",
+    // Psalm 44
+    "",
+    // Psalm 45
+    "",
+    // Psalm 46
+    "",
+    // Psalm 47
+    "",
+    // Psalm 48
+    "",
+    // Psalm 49
+    "",
+    // Psalm 50
+    "",
+    // Psalm 51
+    "",
+    // Psalm 52
+    "",
+    // Psalm 53
+    "",
+    // Psalm 54
+    "",
+    // Psalm 55
+    "",
+    // Psalm 56
+    "",
+    // Psalm 57
+    "",
+    // Psalm 58
+    "",
+    // Psalm 59
+    "",
+    // Psalm 60
+    "",
+    // Psalm 61
+    "",
+    // Psalm 62
+    "",
+    // Psalm 63
+    "",
+    // Psalm 64
+    "",
+    // Psalm 65
+    "",
+    // Psalm 66
+    "",
+    // Psalm 67
+    "",
+    // Psalm 68
+    "",
+    // Psalm 69
+    "",
+    // Psalm 70
+    "",
+    // Psalm 71
+    "",
+    // Psalm 72
+    "",
+    // Psalm 73
+    "",
+    // Psalm 74
+    "",
+    // Psalm 75
+    "",
+    // Psalm 76
+    "",
+    // Psalm 77
+    "",
+    // Psalm 78
+    "",
+    // Psalm 79
+    "",
+    // Psalm 80
+    "",
+    // Psalm 81
+    "",
+    // Psalm 82
+    "",
+    // Psalm 83
+    "",
+    // Psalm 84
+    "",
+    // Psalm 85
+    "",
+    // Psalm 86
+    "",
+    // Psalm 87
+    "",
+    // Psalm 88
+    "",
+    // Psalm 89
+    "",
+    // Psalm 90
+    "",
+    // Psalm 91
+    "",
+    // Psalm 92
+    "",
+    // Psalm 93
+    "",
+    // Psalm 94
+    "",
+    // Psalm 95
+    "",
+    // Psalm 96
+    "",
+    // Psalm 97
+    "",
+    // Psalm 98
+    "",
+    // Psalm 99
+    "",
+    // Psalm 100
+    "",
+    // Psalm 101
+    "",
+    // Psalm 102
+    "",
+    // Psalm 103
+    "",
+    // Psalm 104
+    "",
+    // Psalm 105
+    "",
+    // Psalm 106
+    "",
+    // Psalm 107
+    "",
+    // Psalm 108
+    "",
+    // Psalm 109
+    "",
+    // Psalm 110
+    "",
+    // Psalm 111
+    "",
+    // Psalm 112
+    "",
+    // Psalm 113
+    "",
+    // Psalm 114
+    "",
+    // Psalm 115
+    "",
+    // Psalm 116
+    "",
+    // Psalm 117
+    "",
+    // Psalm 118
+    "",
+    // Psalm 119
+    "",
+    // Psalm 120
+    "",
+    // Psalm 121
+    "",
+    // Psalm 122
+    "",
+    // Psalm 123
+    "",
+    // Psalm 124
+    "",
+    // Psalm 125
+    "",
+    // Psalm 126
+    "",
+    // Psalm 127
+    "",
+    // Psalm 128
+    "",
+    // Psalm 129
+    "",
+    // Psalm 130
+    "",
+    // Psalm 131
+    "",
+    // Psalm 132
+    "",
+    // Psalm 133
+    "",
+    // Psalm 134
+    "",
+    // Psalm 135
+    "",
+    // Psalm 136
+    "",
+    // Psalm 137
+    "",
+    // Psalm 138
+    "",
+    // Psalm 139
+    "",
+    // Psalm 140
+    "",
+    // Psalm 141
+    "",
+    // Psalm 142
+    "",
+    // Psalm 143
+    "",
+    // Psalm 144
+    "",
+    // Psalm 145
+    "",
+    // Psalm 146
+    "",
+    // Psalm 147
+    "",
+    // Psalm 148
+    "",
+    // Psalm 149
+    "",
+    // Psalm 150
+    "",
 };
