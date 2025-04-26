@@ -10,3 +10,8 @@ https://github.com/danieloh0714/psalter
 cd psalter
 make
 ```
+
+## Usage
+```
+usage: ./psalter [Psalm number]
+```
