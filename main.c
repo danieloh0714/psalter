@@ -19,8 +19,13 @@ int main(int argc, char *argv[]) {
         return 1;
     }
 
-    printf(ESC_UNDERLINE "Psalm %d\n\n", psalm_number);
-    printf(ESC_RESET "%s\n", psalms[psalm_number - 1]);
+    Psalm psalm = psalms[psalm_number - 1];
+
+    printf(ESC_UNDERLINE "Psalm %d\n" ESC_RESET, psalm_number);
+    if (psalm.superscription) {
+        printf(ESC_ITALIC "\n%s\n" ESC_RESET, psalm.superscription);
+    }
+    printf("\n%s\n", psalm.text);
 
     return 0;
 }
