@@ -636,7 +636,7 @@ const Psalm psalms[150] = {
     // Psalm 133
     {
         .superscription = "A Song of degrees of David.",
-        .text = "1    Behold, how good a thing it is,\n     and how becoming well,\n     Together such as brethren are\n     in unity to dwell!\n     \n2    Like precious ointment on the head,\n     that down the beard did flow,\n     Ev’n Aaron’s beard, and to the skirts,*\n     did of his garments go.\n     \n3    As Hermon’s dew, the dew that doth\n     on Zion’ hills descend:\n     For there the blessing God commands,\n     life that shall never end.",
+        .text = "1    Behold, how good a thing it is,\n     and how becoming well,\n     Together such as brethren are\n     in unity to dwell!\n     \n2    Like precious ointment on the head,\n     that down the beard did flow,\n     Ev’n Aaron’s beard, and to the skirts,\n     did of his garments go.\n     \n3    As Hermon’s dew, the dew that doth\n     on Zion’ hills descend:\n     For there the blessing God commands,\n     life that shall never end.",
     },
     // Psalm 134
     {
