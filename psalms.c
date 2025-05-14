@@ -596,7 +596,7 @@ const Psalm psalms[150] = {
     // Psalm 125
     {
         .superscription = "A Song of degrees.",
-        .text = "1    They in the Lord that firmly trust\n     shall be like Zion hill,\n     Which at no time can be removed,\n     but standeth ever still.\n     \n2    As round about Jerusalem\n     the mountains stand alway,\n     The Lord his folk doth compass so,\n     from henceforth and for aye.\n     \n3    For ill men’s rod upon the lot\n     of just men shall not lie;\n     Lest righteous men stretch forth their hands\n     unto iniquity.\n     \n4    Do thou to all those that be good\n     thy goodness, Lord, impart;\n     And do thou good to those that are\n     upright within their heart.\n     \n5    But as for such as turn aside\n     after their crooked way,\n     God shall lead forth with wicked men:\n     on Isr’el peace shall stay.",
+        .text = "1    They in the Lord that firmly trust\n     shall be like Zion hill,\n     Which at no time can be remov'd,\n     but standeth ever still.\n     \n2    As round about Jerusalem\n     the mountains stand alway,\n     The Lord his folk doth compass so,\n     from henceforth and for aye.\n     \n3    For ill men’s rod upon the lot\n     of just men shall not lie;\n     Lest righteous men stretch forth their hands\n     unto iniquity.\n     \n4    Do thou to all those that be good\n     thy goodness, Lord, impart;\n     And do thou good to those that are\n     upright within their heart.\n     \n5    But as for such as turn aside\n     after their crooked way,\n     God shall lead forth with wicked men:\n     on Isr’el peace shall stay.",
     },
     // Psalm 126
     {
